@@ -1,0 +1,10 @@
+{
+    "name": "Teste Finch",
+    "description": "Desenvolvimento para o Teste da Finch",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "framework/",
+            "App\\": "application/"
+        }
+    }
+}
